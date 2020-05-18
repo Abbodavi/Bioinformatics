@@ -1,0 +1,284 @@
+ PDBeFold v2.59. (src3) 14 Apr 2014 result file.
+
+                   RESULTS OF MULTIPLE ALIGNMENT
+
+  SUMMARY
+
+                                                    Consensus scores
+  ##    Structure                        Nres  Nsse   RMSD  Q-score
+   1  PDB 3ofw:A  .....................    56    4   0.6627  0.9365
+   2  PDB 6q61:A  .....................    59    4   0.5171  0.9053
+   3  PDB 5yv7:A  .....................    60    4   0.4268  0.8985
+   4  PDB 1dtx:A  .....................    59    4   0.4324  0.9132
+   5  PDB 1kth:A  .....................    58    4   0.6405  0.9069
+   6  PDB 1g6x:A  .....................    58    4   0.5299  0.9196
+   7  PDB 1bpi:A  .....................    58    4   0.6785  0.9021
+
+ Number of aligned residues 55
+ Number of aligned SSEs     4
+ Overall RMSD               0.8616
+ Overall Q-score            0.8317
+
+
+  SECONDARY STRUCTURE ALIGNMENT
+
+ PDB 3ofw:A  ...........  HSSH
+ PDB 6q61:A  ...........  HSSH
+ PDB 5yv7:A  ...........  HSSH
+ PDB 1dtx:A  ...........  HSSH
+ PDB 1kth:A  ...........  HSSH
+ PDB 1g6x:A  ...........  HSSH
+ PDB 1bpi:A  ...........  HSSH
+
+
+  SECONDARY STRUCTURES DETAILS
+
+ PDB 3ofw:A  ...... |H|A:ALA   2 /GLU   7 | ==> |S|A:PHE  18 /ASP  24 | ==> 
+ PDB 6q61:A  ...... |H|A:PRO   4 /LEU   9 | ==> |S|A:GLU  20 /ASN  26 | ==> 
+ PDB 5yv7:A  ...... |H|A:PRO   4 /GLU   9 | ==> |S|A:PHE  20 /LYS  26 | ==> 
+ PDB 1dtx:A  ...... |H|A:ARG   4 /LEU   9 | ==> |S|A:ILE  20 /ASN  26 | ==> 
+ PDB 1kth:A  ...... |H|A:THR   2 /LEU   7 | ==> |S|A:ILE  18 /ASP  24 | ==> 
+ PDB 1g6x:A  ...... |H|A:PRO   2 /GLU   7 | ==> |S|A:ILE  18 /ASN  24 | ==> 
+ PDB 1bpi:A  ...... |H|A:PRO   2 /GLU   7 | ==> |S|A:ILE  18 /ASN  24 | ==> 
+
+ PDB 3ofw:A  ...... |S|A:LYS  29 /TYR  35 | ==> |H|A:THR  47 /ARG  56 |
+ PDB 6q61:A  ...... |S|A:GLN  31 /TYR  37 | ==> |H|A:ARG  49 /LEU  58 |
+ PDB 5yv7:A  ...... |S|A:LYS  31 /PHE  37 | ==> |H|A:THR  49 /GLY  59 |
+ PDB 1dtx:A  ...... |S|A:GLN  31 /TRP  37 | ==> |H|A:THR  49 /ILE  58 |
+ PDB 1kth:A  ...... |S|A:SER  29 /TYR  35 | ==> |H|A:SER  47 /ALA  56 |
+ PDB 1g6x:A  ...... |S|A:LEU  29 /TYR  35 | ==> |H|A:SER  47 /GLY  56 |
+ PDB 1bpi:A  ...... |S|A:LEU  29 /TYR  35 | ==> |H|A:SER  47 /GLY  56 |
+
+
+  CROSS-STRUCTURE STATISTICS
+
+
+ << RMSD >>
+   Structure                 1       2       3       4       5       6
+ ------------------------+-------+-------+-------+-------+-------+-------
+   1. PDB 3ofw:A  ......           0.989   0.828   0.688   0.914   1.012 
+   2. PDB 6q61:A  ......   0.989           0.661   0.666   0.905   0.804 
+   3. PDB 5yv7:A  ......   0.828   0.661           0.491   0.754   0.822 
+   4. PDB 1dtx:A  ......   0.688   0.666   0.491           0.754   0.883 
+   5. PDB 1kth:A  ......   0.914   0.905   0.754   0.754           0.982 
+   6. PDB 1g6x:A  ......   1.012   0.804   0.822   0.883   0.982         
+   7. PDB 1bpi:A  ......   1.142   0.881   0.945   1.015   1.159   0.319 
+
+   Structure                 7
+ ------------------------+-------
+   1. PDB 3ofw:A  ......   1.142 
+   2. PDB 6q61:A  ......   0.881 
+   3. PDB 5yv7:A  ......   0.945 
+   4. PDB 1dtx:A  ......   1.015 
+   5. PDB 1kth:A  ......   1.159 
+   6. PDB 1g6x:A  ......   0.319 
+   7. PDB 1bpi:A  ......         
+
+
+ << Q-score >>
+   Structure                 1       2       3       4       5       6
+ ------------------------+-------+-------+-------+-------+-------+-------
+   1. PDB 3ofw:A  ......           0.826   0.837   0.870   0.852   0.836 
+   2. PDB 6q61:A  ......   0.826           0.815   0.828   0.810   0.825 
+   3. PDB 5yv7:A  ......   0.837   0.815           0.832   0.818   0.809 
+   4. PDB 1dtx:A  ......   0.870   0.828   0.832           0.831   0.814 
+   5. PDB 1kth:A  ......   0.852   0.810   0.818   0.831           0.812 
+   6. PDB 1g6x:A  ......   0.836   0.825   0.809   0.814   0.812         
+   7. PDB 1bpi:A  ......   0.813   0.814   0.791   0.793   0.782   0.889 
+
+   Structure                 7
+ ------------------------+-------
+   1. PDB 3ofw:A  ......   0.813 
+   2. PDB 6q61:A  ......   0.814 
+   3. PDB 5yv7:A  ......   0.791 
+   4. PDB 1dtx:A  ......   0.793 
+   5. PDB 1kth:A  ......   0.782 
+   6. PDB 1g6x:A  ......   0.889 
+   7. PDB 1bpi:A  ......         
+
+
+ << Sequence Identity >>
+   Structure                 1       2       3       4       5       6
+ ------------------------+-------+-------+-------+-------+-------+-------
+   1. PDB 3ofw:A  ......           0.345   0.455   0.364   0.400   0.327 
+   2. PDB 6q61:A  ......   0.345           0.364   0.418   0.382   0.345 
+   3. PDB 5yv7:A  ......   0.455   0.364           0.418   0.364   0.273 
+   4. PDB 1dtx:A  ......   0.364   0.418   0.418           0.400   0.345 
+   5. PDB 1kth:A  ......   0.400   0.382   0.364   0.400           0.345 
+   6. PDB 1g6x:A  ......   0.327   0.345   0.273   0.345   0.345         
+   7. PDB 1bpi:A  ......   0.345   0.345   0.291   0.345   0.327   0.927 
+
+   Structure                 7
+ ------------------------+-------
+   1. PDB 3ofw:A  ......   0.345 
+   2. PDB 6q61:A  ......   0.345 
+   3. PDB 5yv7:A  ......   0.291 
+   4. PDB 1dtx:A  ......   0.345 
+   5. PDB 1kth:A  ......   0.327 
+   6. PDB 1g6x:A  ......   0.927 
+   7. PDB 1bpi:A  ......         
+
+
+  ROTATION-TRANSLATION MATRICES OF BEST SUPERPOSITION
+
+                    |   0.66961  -0.25874  -0.69619 |   | x |   |  54.19080 |
+ PDB 3ofw:A  ...... |  -0.07080   0.91085  -0.40662 | * | y | + |   4.69791 |
+                    |   0.73933   0.32157   0.59160 |   | z |   |   5.72979 |
+
+                    |  -0.94676  -0.25908  -0.19113 |   | x |   |  37.00309 |
+ PDB 6q61:A  ...... |  -0.32160   0.78869   0.52397 | * | y | + |  27.32528 |
+                    |   0.01499   0.55754  -0.83002 |   | z |   |  27.05383 |
+
+                    |   0.19816  -0.95143   0.23560 |   | x |   |  36.31896 |
+ PDB 5yv7:A  ...... |   0.56379   0.30726   0.76664 | * | y | + |  24.47001 |
+                    |  -0.80180  -0.01909   0.59729 |   | z |   |   3.71124 |
+
+                    |   0.25185   0.63756   0.72807 |   | x |   |  34.19241 |
+ PDB 1dtx:A  ...... |   0.96468  -0.22540  -0.13632 | * | y | + |   9.79631 |
+                    |   0.07719   0.73669  -0.67181 |   | z |   |  17.76316 |
+
+                    |   0.44672  -0.77800   0.44177 |   | x |   |  40.80035 |
+ PDB 1kth:A  ...... |  -0.88812  -0.44527   0.11391 | * | y | + |  15.73822 |
+                    |   0.10808  -0.44323  -0.88987 |   | z |   |  28.10104 |
+
+                    |   0.99999   0.00093   0.00388 |   | x |   |  -0.09997 |
+ PDB 1g6x:A  ...... |  -0.00092   0.99999  -0.00337 | * | y | + |   0.12416 |
+                    |  -0.00388   0.00337   0.99999 |   | z |   |   0.14986 |
+
+                    |  -0.91981  -0.14687   0.36385 |   | x |   |  75.39016 |
+ PDB 1bpi:A  ...... |  -0.23284  -0.54206  -0.80744 | * | y | + |  26.15501 |
+                    |   0.31582  -0.82740   0.46439 |   | z |   |  15.78676 |
+
+
+  3D ALIGNMENT OF BACKBONE ATOMS
+
+-----+------------+-+------------+-+------------+-+------------+-+------------+
+  ## |    3ofw    | |    6q61    | |    5yv7    | |    1dtx    | |    1kth    |
+-----+------------+-+------------+-+------------+-+------------+-+------------+
+   1 |            | |            | | |a:trp   1 | | |a:pca   1 | |            |
+   2 |            | | |a:asp   2 | | |a:gln   2 | | |a:pro   2 | |            |
+   3 | |a:glu   1 | | |a:arg   3 | | |a:pro   3 | | |a:arg   3 | | |a:glu   1 |
+   4 |H|A:ALA   2 |*|H|A:PRO   4 |*|H|A:PRO   4 |*|H|A:ARG   4 |*|H|A:THR   2 |
+   5 |H|A:SER   3 |*|H|A:SER   5 |*|H|A:TRP   5 |*|H|A:LYS   5 |*|H|A:ASP   3 |
+   6 |H|A:ILE   4 |*|H|A:LEU   6 |*|H|A:TYR   6 |*|H|A:LEU   6 |*|H|A:ILE   4 |
+   7 |H|A:CYS   5 |*|H|A:CYS   7 |*|H|A:CYS   7 |*|H|A:CYS   7 |*|H|A:CYS   5 |
+   8 |H|A:SER   6 |*|H|A:ASP   8 |*|H|A:LYS   8 |*|H|A:ILE   8 |*|H|A:LYS   6 |
+   9 |H|A:GLU   7 |*|H|A:LEU   9 |*|H|A:GLU   9 |*|H|A:LEU   9 |*|H|A:LEU   7 |
+  10 | |A:PRO   8 |*| |A:PRO  10 |*| |A:PRO  10 |*| |A:HIS  10 |*| |A:PRO   8 |
+  11 | |A:LYS   9 |*| |A:ALA  11 |*| |A:VAL  11 |*| |A:ARG  11 |*| |A:LYS   9 |
+  12 | |A:LYS  10 |*| |A:ASP  12 |*| |A:ARG  12 |*| |A:ASN  12 |*| |A:ASP  10 |
+  13 | |A:VAL  11 |*| |A:SER  13 |*| |A:ILE  13 |*| |A:PRO  13 |*| |A:GLU  11 |
+  14 | |A:GLY  12 |*| |A:GLY  14 |*| |A:GLY  14 |*| |A:GLY  14 |*| |A:GLY  12 |
+  15 | |A:ARG  13 |*| |A:SER  15 |*| |A:SER  15 |*| |A:ARG  15 |*| |A:THR  13 |
+  16 | |A:CYS  14 |*| |A:GLY  16 |*| |A:CYS  16 |*| |A:CYS  16 |*| |A:CYS  14 |
+  17 | |A:LYS  15 |*| |A:THR  17 |*| |A:LYS  17 |*| |A:TYR  17 |*| |A:ARG  15 |
+  18 | |A:GLY  16 |*| |A:LYS  18 |*| |A:LYS  18 |*| |A:ASP  18 |*| |A:ASP  16 |
+  19 | |A:TYR  17 |*| |A:ALA  19 |*| |A:GLN  19 |*| |A:LYS  19 |*| |A:PHE  17 |
+  20 |S|A:PHE  18 |*|S|A:GLU  20 |*|S|A:PHE  20 |*|S|A:ILE  20 |*|S|A:ILE  18 |
+  21 |S|A:PRO  19 |*|S|A:LYS  21 |*|S|A:SER  21 |*|S|A:PRO  21 |*|S|A:LEU  19 |
+  22 |S|A:ARG  20 |*|S|A:ARG  22 |*|S|A:SER  22 |*|S|A:ALA  22 |*|S|A:LYS  20 |
+  23 |S|A:PHE  21 |*|S|A:ILE  23 |*|S|A:PHE  23 |*|S|A:PHE  23 |*|S|A:TRP  21 |
+  24 |S|A:TYR  22 |*|S|A:TYR  24 |*|S|A:TYR  24 |*|S|A:TYR  24 |*|S|A:TYR  22 |
+  25 |S|A:PHE  23 |*|S|A:TYR  25 |*|S|A:PHE  25 |*|S|A:TYR  25 |*|S|A:TYR  23 |
+  26 |S|A:ASP  24 |*|S|A:ASN  26 |*|S|A:LYS  26 |*|S|A:ASN  26 |*|S|A:ASP  24 |
+  27 | |A:SER  25 |*| |A:SER  27 |*| |A:TRP  27 |*| |A:GLN  27 |*| |A:PRO  25 |
+  28 | |A:GLU  26 |*| |A:ALA  28 |*| |A:THR  28 |*| |A:LYS  28 |*| |A:ASN  26 |
+  29 | |A:THR  27 |*| |A:ARG  29 |*| |A:ALA  29 |*| |A:LYS  29 |*| |A:THR  27 |
+  30 | |A:GLY  28 |*| |A:LYS  30 |*| |A:LYS  30 |*| |A:LYS  30 |*| |A:LYS  28 |
+  31 |S|A:LYS  29 |*|S|A:GLN  31 |*|S|A:LYS  31 |*|S|A:GLN  31 |*|S|A:SER  29 |
+  32 |S|A:CYS  30 |*|S|A:CYS  32 |*|S|A:CYS  32 |*|S|A:CYS  32 |*|S|A:CYS  30 |
+  33 |S|A:THR  31 |*|S|A:LEU  33 |*|S|A:LEU  33 |*|S|A:GLU  33 |*|S|A:ALA  31 |
+  34 |S|A:PRO  32 |*|S|A:ARG  34 |*|S|A:PRO  34 |*|S|A:ARG  34 |*|S|A:ARG  32 |
+  35 |S|A:PHE  33 |*|S|A:PHE  35 |*|S|A:PHE  35 |*|S|A:PHE  35 |*|S|A:PHE  33 |
+  36 |S|A:ILE  34 |*|S|A:ASP  36 |*|S|A:LEU  36 |*|S|A:ASP  36 |*|S|A:TRP  34 |
+  37 |S|A:TYR  35 |*|S|A:TYR  37 |*|S|A:PHE  37 |*|S|A:TRP  37 |*|S|A:TYR  35 |
+  38 | |A:GLY  36 |*| |A:THR  38 |*| |A:SER  38 |*| |A:SER  38 |*| |A:GLY  36 |
+  39 | |A:GLY  37 |*| |A:GLY  39 |*| |A:GLY  39 |*| |A:GLY  39 |*| |A:GLY  37 |
+  40 | |A:CYS  38 |*| |A:GLN  40 |*| |A:CYS  40 |*| |A:CYS  40 |*| |A:CYS  38 |
+  41 | |A:GLY  39 |*| |A:GLY  41 |*| |A:GLY  41 |*| |A:GLY  41 |*| |A:GLY  39 |
+  42 | |A:GLY  40 |*| |A:GLY  42 |*| |A:GLY  42 |*| |A:GLY  42 |*| |A:GLY  40 |
+  43 | |A:ASN  41 |*| |A:ASN  43 |*| |A:ASN  43 |*| |A:ASN  43 |*| |A:ASN  41 |
+  44 | |A:GLY  42 |*| |A:GLU  44 |*| |A:ALA  44 |*| |A:SER  44 |*| |A:GLU  42 |
+  45 | |A:ASN  43 |*| |A:ASN  45 |*| |A:ASN  45 |*| |A:ASN  45 |*| |A:ASN  43 |
+  46 | |A:ASN  44 |*| |A:ASN  46 |*| |A:ARG  46 |*| |A:ARG  46 |*| |A:LYS  44 |
+  47 | |A:PHE  45 |*| |A:PHE  47 |*| |A:PHE  47 |*| |A:PHE  47 |*| |A:PHE  45 |
+  48 | |A:GLU  46 |*| |A:ARG  48 |*| |A:GLN  48 |*| |A:LYS  48 |*| |A:GLY  46 |
+  49 |H|A:THR  47 |*|H|A:ARG  49 |*|H|A:THR  49 |*|H|A:THR  49 |*|H|A:SER  47 |
+  50 |H|A:LEU  48 |*|H|A:THR  50 |*|H|A:ILE  50 |*|H|A:ILE  50 |*|H|A:GLN  48 |
+  51 |H|A:HIS  49 |*|H|A:TYR  51 |*|H|A:GLY  51 |*|H|A:GLU  51 |*|H|A:LYS  49 |
+  52 |H|A:GLN  50 |*|H|A:ASP  52 |*|H|A:GLU  52 |*|H|A:GLU  52 |*|H|A:GLU  50 |
+  53 |H|A:CYS  51 |*|H|A:CYS  53 |*|H|A:CYS  53 |*|H|A:CYS  53 |*|H|A:CYS  51 |
+  54 |H|A:ARG  52 |*|H|A:ALA  54 |*|H|A:ARG  54 |*|H|A:ARG  54 |*|H|A:GLU  52 |
+  55 |H|A:ALA  53 |*|H|A:ARG  55 |*|H|A:LYS  55 |*|H|A:ARG  55 |*|H|A:LYS  53 |
+  56 |H|A:ILE  54 |*|H|A:THR  56 |*|H|A:LYS  56 |*|H|A:THR  56 |*|H|A:VAL  54 |
+  57 |H|A:CYS  55 |*|H|A:CYS  57 |*|H|A:CYS  57 |*|H|A:CYS  57 |*|H|A:CYS  55 |
+  58 |H|A:ARG  56 |*|H|A:LEU  58 |*|H|A:LEU  58 |*|H|A:ILE  58 |*|H|A:ALA  56 |
+  59 |            | | |a:tyr  59 | |h|a:gly  59 | | |a:gly  59 | | |a:pro  57 |
+  60 |            | | |a:thr  60 | | |a:lys  60 | |            | | |a:val  58 |
+-----+------------+-+------------+-+------------+-+------------+-+------------+
+
+-----+------------+-+------------+
+  ## |    1g6x    | |    1bpi    |
+-----+------------+-+------------+
+   1 |            | |            |
+   2 |            | |            |
+   3 | |a:arg   1 | | |a:arg   1 |
+   4 |H|A:PRO   2 |*|H|A:PRO   2 |
+   5 |H|A:ASP   3 |*|H|A:ASP   3 |
+   6 |H|A:PHE   4 |*|H|A:PHE   4 |
+   7 |H|A:CYS   5 |*|H|A:CYS   5 |
+   8 |H|A:LEU   6 |*|H|A:LEU   6 |
+   9 |H|A:GLU   7 |*|H|A:GLU   7 |
+  10 | |A:PRO   8 |*| |A:PRO   8 |
+  11 | |A:PRO   9 |*| |A:PRO   9 |
+  12 | |A:TYR  10 |*| |A:TYR  10 |
+  13 | |A:ALA  11 |*| |A:THR  11 |
+  14 | |A:GLY  12 |*| |A:GLY  12 |
+  15 | |A:ALA  13 |*| |A:PRO  13 |
+  16 | |A:CYS  14 |*| |A:CYS  14 |
+  17 | |A:ARG  15 |*| |A:LYS  15 |
+  18 | |A:ALA  16 |*| |A:ALA  16 |
+  19 | |A:ARG  17 |*| |A:ARG  17 |
+  20 |S|A:ILE  18 |*|S|A:ILE  18 |
+  21 |S|A:ILE  19 |*|S|A:ILE  19 |
+  22 |S|A:ARG  20 |*|S|A:ARG  20 |
+  23 |S|A:TYR  21 |*|S|A:TYR  21 |
+  24 |S|A:PHE  22 |*|S|A:PHE  22 |
+  25 |S|A:TYR  23 |*|S|A:TYR  23 |
+  26 |S|A:ASN  24 |*|S|A:ASN  24 |
+  27 | |A:ALA  25 |*| |A:ALA  25 |
+  28 | |A:LYS  26 |*| |A:LYS  26 |
+  29 | |A:ALA  27 |*| |A:ALA  27 |
+  30 | |A:GLY  28 |*| |A:GLY  28 |
+  31 |S|A:LEU  29 |*|S|A:LEU  29 |
+  32 |S|A:CYS  30 |*|S|A:CYS  30 |
+  33 |S|A:GLN  31 |*|S|A:GLN  31 |
+  34 |S|A:THR  32 |*|S|A:THR  32 |
+  35 |S|A:PHE  33 |*|S|A:PHE  33 |
+  36 |S|A:VAL  34 |*|S|A:VAL  34 |
+  37 |S|A:TYR  35 |*|S|A:TYR  35 |
+  38 | |A:GLY  36 |*| |A:GLY  36 |
+  39 | |A:GLY  37 |*| |A:GLY  37 |
+  40 | |A:CYS  38 |*| |A:CYS  38 |
+  41 | |A:ARG  39 |*| |A:ARG  39 |
+  42 | |A:ALA  40 |*| |A:ALA  40 |
+  43 | |A:LYS  41 |*| |A:LYS  41 |
+  44 | |A:ARG  42 |*| |A:ARG  42 |
+  45 | |A:ASN  43 |*| |A:ASN  43 |
+  46 | |A:ASN  44 |*| |A:ASN  44 |
+  47 | |A:PHE  45 |*| |A:PHE  45 |
+  48 | |A:LYS  46 |*| |A:LYS  46 |
+  49 |H|A:SER  47 |*|H|A:SER  47 |
+  50 |H|A:ALA  48 |*|H|A:ALA  48 |
+  51 |H|A:GLU  49 |*|H|A:GLU  49 |
+  52 |H|A:ASP  50 |*|H|A:ASP  50 |
+  53 |H|A:CYS  51 |*|H|A:CYS  51 |
+  54 |H|A:LEU  52 |*|H|A:MET  52 |
+  55 |H|A:ARG  53 |*|H|A:ARG  53 |
+  56 |H|A:THR  54 |*|H|A:THR  54 |
+  57 |H|A:CYS  55 |*|H|A:CYS  55 |
+  58 |H|A:GLY  56 |*|H|A:GLY  56 |
+  59 | |a:gly  57 | | |a:gly  57 |
+  60 | |a:ala  58 | | |a:ala  58 |
+-----+------------+-+------------+
+
